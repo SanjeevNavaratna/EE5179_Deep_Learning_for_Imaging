@@ -14,7 +14,7 @@ EE5179 covers the foundational and advanced techniques in deep learning specific
 - Vision Transformers (ViTs)
 
 ## Assignment Overview
-🔹 Assignment 1 (PA_1): MLP from Scratch
+🔹 Assignment 1 (PA1): MLP from Scratch
 Built a multi-layer perceptron (MLP) from scratch using NumPy.
 
 Tasks included: forward/backward propagation, Glorot initialization, and experimentation with activation functions (Sigmoid, Tanh, ReLU).
@@ -25,7 +25,7 @@ Implemented the same architecture using PyTorch + Adam optimizer + L2 regulariza
 
 ➡️ Dataset: MNIST
 
-🔹 Assignment 2 (PA_2): Convolutional Neural Networks
+🔹 Assignment 2 (PA2): Convolutional Neural Networks
 Designed a CNN for digit classification with:
 
 Two convolutional layers
@@ -41,7 +41,7 @@ Visualized learned filters and intermediate activations.
 Explored adversarial examples (targeted and non-targeted attacks).
 
 
-🔹 Assignment 3 (PA_3): Autoencoders
+🔹 Assignment 3 (PA3): Autoencoders
 Compared PCA vs. Autoencoder performance on MNIST.
 
 Trained:
@@ -59,7 +59,7 @@ Visualized reconstructed images and learned filters.
 Investigated manifold learning using latent space manipulation.
 
 
-🔹 Assignment 4 (PA_4) : Recurrent Neural Networks
+🔹 Assignment 4 (PA4) : Recurrent Neural Networks
 Implemented RNN-based digit classification on MNIST by unrolling images across rows/columns.
 
 Compared Vanilla RNNs, LSTMs, GRUs, and Bidirectional RNNs.
@@ -69,7 +69,8 @@ Experimented with hyperparameters and evaluated performance on custom hand-drawn
 Built an RNN-based binary adder model for bit-by-bit sequence prediction.
 
 
-
+## License
+This repository is for academic use only as part of coursework.
 
 ## Acknowledgements
 Thanks to Prof. A.N Rajagopalan and the EE5179 TA's for the excellent material and guidance.
