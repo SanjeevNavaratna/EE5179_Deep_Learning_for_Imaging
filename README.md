@@ -15,6 +15,7 @@ EE5179 covers the foundational and advanced techniques in deep learning specific
 
 ## Assignment Overview
 🔹 **Assignment 1 (PA1)**: MLP from Scratch
+
 Built a multi-layer perceptron (MLP) from scratch using NumPy.
 
 Tasks included: forward/backward propagation, Glorot initialization, and experimentation with activation functions (Sigmoid, Tanh, ReLU).
